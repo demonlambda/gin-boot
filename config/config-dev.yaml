@@ -1,0 +1,8 @@
+port:
+  8092
+mysql:
+  dsn: zcount?charset=utf8mb4&parseTime=True&loc=Local
+  user: root
+  password: "root"
+  host: localhost
+  port: 3306
